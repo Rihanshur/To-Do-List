@@ -1,4 +1,3 @@
-const https = require("https")
 const express = require("express")
 const bodyParser = require("body-parser")
 
@@ -32,6 +31,6 @@ app.post("/",function(req,res){
   res.redirect("/")
 })
 
-app.listen(https:"//rihanshur.github.io/To-Do-list/", function() {
+app.listen(3000, function() {
   console.log("Server Running")
 })
