@@ -31,6 +31,6 @@ app.post("/",function(req,res){
   res.redirect("/")
 })
 
-app.listen(https://rihanshur.github.io/To-Do-list/, function() {
+app.listen("https://rihanshur.github.io/To-Do-list/", function() {
   console.log("Server Running")
 })
