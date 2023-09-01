@@ -12,22 +12,9 @@ This is a simple To-Do List web application built using Node.js, Express.js, and
 
 1. Clone the repository:
 
-   \`\`\`bash
-   git clone [https://github.com/Rihanshur/To-Do-list.git]
-   cd To-Do-list
-   \`\`\`
-
 2. Install the dependencies:
 
-   \`\`\`bash
-   npm install
-   \`\`\`
-
 3. Start the server:
-
-   \`\`\`bash
-   node app.js
-   \`\`\`
 
 4. Open your web browser and navigate to \`http://localhost:3000\` to access the application.
 
@@ -39,7 +26,7 @@ This is a simple To-Do List web application built using Node.js, Express.js, and
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this project.
 
 ## License
 
@@ -52,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [rihanshur@gmail.com].);
+If you have any questions or suggestions, feel free to contact us at [rihanshur@gmail.com](mailto:rihanshur@gmail.com);
